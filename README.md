@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to observe services in the modern concurrency context (Swift 6, asyn/await).
+This project is an SPM designed to enable services observation in the modern concurrency context (Swift 6, asyn/await).
 
 ## Features
 
